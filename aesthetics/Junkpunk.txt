@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"13579":{"pageid":13579,"ns":0,"title":"Junkpunk","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Salvagepunk]]"}}}]}}}}

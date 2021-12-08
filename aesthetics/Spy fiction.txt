@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"17665":{"pageid":17665,"ns":0,"title":"Spy fiction","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Spy Fiction]]"}}}]}}}}

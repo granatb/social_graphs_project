@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"18516":{"pageid":18516,"ns":0,"title":"Woodland Goth","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#Redirect [[Woodland goth]]"}}}]}}}}

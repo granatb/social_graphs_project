@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19340":{"pageid":19340,"ns":0,"title":"Sh\u0101 m\u01ce t\u00e8","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Shamate]]"}}}]}}}}
