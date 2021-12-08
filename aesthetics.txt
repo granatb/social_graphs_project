@@ -1,0 +1,871 @@
+<div style="text-align:center;"><div style="font-size:160%; line-height:130%;"></div></div>
+
+If you need assistance with identifying your aesthetic or creating a moodboard, feel free to ask questions in the discussion page, official Aesthetics Wiki Discord server or on the official [https://www.reddit.com/r/aestheticswiki/ Aesthetics Wiki Subreddit]. Also, feel free to check out the [https://www.are.na/museum-of-aesthetics/aesthetics-superchannel Aesthetic Superchannel]! 
+
+=== Help pages ===
+Please read these pages before asking about your aesthetic: 
+
+*[[FAQ]]
+*[[Helping You Find Your Aesthetic]]
+
+<br />
+
+== [[Pages We Need]] ==
+This is a wishlist for pages that are missing from this wiki. Please start on it and then erase if off the list when you have at least 100 words written. 
+
+<br />
+==Aesthetics 101: An explanation into aesthetic culture==
+The pages made for this section will help you to gain an understanding of the various elements that come together to create the various aesthetics you will find. 
+
+#[[Colour Theory]]
+#[[Suffix Meaning|Suffix Meanings]]
+#[[Philosophy]]
+#[[Visuals]]
+#[[Fashion]]
+#[[Music]]
+#Subgenres (''Coming Soon'')
+#[[Blending: Comparable & Contrasting Aesthetics]]
+
+== Meta. ==
+Meta pages will analyze the aesthetic community itself and documents the trends that were practiced. 
+
+* [[2014-era tumblr]]
+* 8tracks (coming soon)
+* Aesthetics Wiki (coming soon)
+* Polyvore (coming soon)
+* Post-purge tumblr (coming soon)
+* Tik Tok (coming soon)
+* VSCO (coming soon)
+* YouTube (coming soon)
+
+== Indexes ==
+Here are various lists that sort aesthetics by their major components and imagery.
+
+*[https://aesthetics.fandom.com/wiki/Category:Art_movements Art Movements (Periods of Art History)]
+*[[Historical Americana]]
+*[[Fiction-based Aesthetics|Index of Fiction-based Aesthetics]]
+*[[:Category:Location-based|Index of Location-based Aesthetics]]
+*[[Index of Music-Based Aesthetics]]
+*[[Index of Nation-Based Aesthetics]]
+*[[Vintage]]
+*[[2014-era tumblr]]
+
+=== Adjective indexes ===
+Adjective indexes are indexes that are based on what feelings or descriptions the aesthetic invokes.
+
+*[[:Category:Creepy|Creepy]]
+*[[:Category:Cute|Cute]]
+*[[:Category:Electronic|Electronic]]
+*[[:Category:Feminine|Stereotypically "Feminine"]]
+*[[:Category:Mainstream|Mainstream]]
+*[[:Category:Masculine|Stereotypically "Masculine"]]
+*[[:Category:Mature|Mature]]
+*[[:Category:Sexy|Sexy]]
+*[[:Category:Youthful|Youthful]]
+*[[:Category:Wealthy|Wealthy]]
+
+<!-- <table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+<ul><li>Text Here</li>
+<li>Text Here</li></ul>
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+<ul><li>Text Here</li>
+<li>Text Here</li></ul>
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+<ul><li>Text Here</li>
+<li>Text Here</li></ul>
+</td></tr></table> -->
+
+==Colors==
+Entries on colors are not aesthetics themselves but rather pages that serve as indexes, information on symbolism, and color coordinating suggestions.
+<table class="fandom-table" style="background-color:transparent; color:inherit; width:100%;"><caption></caption><tr>
+<td style="width:25%;" align="left" valign="top">
+<font size="4">Achromatic colors</font>
+
+*[[Black]]
+*[[White]]
+*[[Grey]]
+</td>
+<td style="width:25%;" align="left" valign="top">
+<font size="4">Primary colors</font>
+
+*[[Red]]
+*[[Green]]
+*[[Blue]]
+<td style="width:25%;" align="left" valign="top">
+<font size="4">Secondary colors</font>
+
+*[[Yellow]]
+*[[Cyan]]
+*[[Magenta]]
+</td>
+<td style="width:25%;" align="left" valign="top">
+<font size="4">Tertiary colors</font>
+
+*[[Orange]]
+*[[Brown]]
+*[[Chartreuse]]
+*[[Spring Green]]
+*[[Azure]]
+*[[Violet]]
+*[[Rose]]
+</td></tr></table>
+
+==A==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Abstract]]
+*[[Abstract Tech]]
+*[[Acid Pixie]]
+*[[Acidwave]]
+*[[Adventurecore]]
+*[[Afrofuturism]]
+*[[Afro-Victorian]]
+*[[After Hours]]
+*[[Agrogirl/Agroboy|Agropeople]]
+*[[Alien]]
+*[[Alternative]]
+*[[Americana]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[American Pioneers]]
+*[[American Revolution]]
+*[[Androgynous]]
+*[[Anemoiacore]]
+*[[Angelcore]]
+*[[Anglocore]]
+*[[Anglo Gothic]]
+*[[Angura Kei]]
+*[[Animecore]]
+*[[Anti-Fashion]]
+*[[Applecore]]
+*[[Art Academia]]
+*[[Arts and Crafts Movement|Arts and Crafts]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Art Deco]]
+*[[Art Hoe]]
+*[[Art Nouveau]]
+*[[Artistiekelingen]]
+*[[Athlete]]
+*[[Atompunk]]
+*[[Auroracore]]
+*[[Autumn]]
+*[[Avant-garde]]
+</td></tr></table>
+
+==B==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Babycore]]
+*[[Babygirl]]
+*[[Barbiecore]]
+*[[Bardcore]]
+*[[Baddie]]
+*[[Ballet Academia]]
+*[[Baroque]]
+*[[Bastardcore]]
+*[https://aesthetics.fandom.com/wiki/Beach_Bunny# Beach Bunny]
+*[[Beatnik]]
+*[[Bibliopunk]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Biker]]
+*[[Bills]]
+*[[Bimbo Casual]]
+*[[Biopunk]]
+*[[Bizarro Fiction]]
+*[[Blob Web]]
+*[[Bookstore Girl]]
+*[[Bloomcore]]
+*[[Bodikon]]
+*[[Bogan]]
+*[[Bohemian]]
+*[[Bombacore]]
+*[[Bosozoku]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Boujee]]
+*[[Breakcore]]
+*[[Brocore]]
+*[[Bronzepunk]]
+*[[Britpop]]
+*[[Bubble Goth]]
+*[[Bubblegum Bitch]]
+*[[Bubblegum Witch]]
+*[[Bunnycore]]
+*[[Butterfly]]
+</td></tr></table>
+
+==C==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Cabincore]]
+*[[Cagole]]
+*[[Camp]]
+*[[Campcore]]
+*[[Candycore]]
+*[[Caninecore]]
+*[[Carcore]]
+*[[Cargopunk]]
+*[[Carnivalcore]]
+*[[Cartelcore]]
+*[[Cartooncore]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Casino]]
+*[[Cassette Futurism]]
+*[[Changelingcore]]
+*[[Chav]]
+*[[Cherry Emoji Twitter]]
+*[[Chic Modernist]]
+*[[Cholo]]
+*[[Christcore]]
+*[[Christian Girl Autumn]]
+*[[Christmas]]
+*[[Chaotic Academia]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[City Pop]]
+*[[Classic Academia]]
+*[[Classic Lolita]]
+*[[Classicism]]
+*[[Cleancore]]
+*[[Clockpunk]]
+*[[Cloudcore]]
+*[[Clowncore]]
+*[[Club]]
+*[[Club Kids]]
+</td></tr></table>
+
+<hr style="max-width: 95%; margin: auto; border: 1px dashed #D3D6D6;">
+
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Coffee House/Cafe]]
+*[[Comfy/Cozy]]
+*[[Common White Girl]]
+*[[Comiccore]]
+*[[Concore]]
+*[[Constructivism]]
+*[[Corporate]]
+*[[Cottagecore]]
+*[[Cottagegore]]
+*[[Country]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Cowpunk]]
+*[[C-Pop]]
+*[[Crackhead]]
+*[[Craftcore]]
+*[[Cripplepunk]]
+*[[Crowcore]]
+*[[Crustpunk]]
+*[[Cryptid Academia]]
+*[[Cryptidcore]]
+*[[Crystalcore]]
+*[[Cubism]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Cuddle Party]]
+*[[Cultcore]]
+*[[Cult Party Kei]]
+*[[Cyber Minimalism]]
+*[[Cyberdelic]]
+*[[Cyberghetto]]
+*[[Cybergoth]]
+*[[Cybergrunge]]
+*[[Cyberpop]]
+*[[Cyberprep]]
+*[[Cyberpunk]]
+</td></tr></table>
+
+==D==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Dadaism]]
+*[[Dark Paradise]]
+*[[Dark Academia]]
+*[[Dark Naturalism]]
+*[[Dark Nautical]]
+*[[Dark Nymphet]]
+*[[Darkest Academia]]
+*[[Daydreampunk]]
+*[[Dazecore]]
+*[[Decora]]
+*[[Decopunk]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Desertwave]]
+*[[De Stijl]]
+*[[Devilcore]]
+*[[Diner]]
+*[[Dinocore]]
+*[[Dieselpunk]]
+*[[Dollcore]]
+*[[Dolly Kei]]
+*[[Dracopunk]]
+*[[Dragoncore]]
+*[[Dreamy]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Drugcore]]
+*[[Dual Kawaii]]
+*[[Dungeon Synth]]
+*[[Dullcore]]
+*
+</td></tr></table>
+
+==E==
+
+*[[E-Boy]]
+*[[E-Girl]]
+*[[Electro Swing]]
+*[[Emancicore]]
+*[[Emo]]
+*[[Equestrian]]
+*[[Ero guro]]
+*[[Erokawa]]
+*[[Ethereal]]
+*[[Expressionism]]
+
+==F==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+* [[Fairy Academia]]
+* [[Fairycore]]
+* [[Fairy Kei]]
+* [[Fairy Tale]]
+* [[Fanfare]]
+* [[Fantasy]]
+*[[Fantasy Astronomy]]
+* [[Fashwave]]
+* [[Fauvism]]
+* [[Fawncore]]
+* [[Femme Fatale]]
+* [[Film Noir]]</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Flapper]]
+*[[Fluxus Movement]]
+*[[Foodie]]
+*[[Forestpunk]]
+*[[Fractal art]]
+*[[Freak]]
+*[[French Girl]]
+*[[Frutiger Aero]]
+*[[Furry]]
+*[[Functionalism]]
+*[[Futago]]
+*[[Futurism]]
+</td></tr></table>
+
+==G==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Gadgetpunk]]
+*[[Game Night]]
+*[[Gamine]]
+*[[Geek]]
+*[[Ghostcore]]
+*[[Girl-Next-Door]]
+*[[Glam Girl]]
+*[[Glam Rock]]
+*[[Glitch]]
+*[[Gloomcore]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Glowwave]]
+*[[Goblincore]]
+*[[Goblin Academia]]
+*[[Golden Age of Detective Fiction]]
+*[[Golden Hour]]
+*[[Gopnik]]
+*[[Gorecore]]
+*[[Gorean]]
+*[[Goth]]
+*[[Gothcore]]
+*[[Gothic]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Grandmillenial]]
+*[[Grandparentcore]]
+*[[Grindhouse]]
+*[[Grunge]]
+*[[Gull Girl]]
+*[[Gurokawa]]
+*[[Gyaru]]
+</td></tr></table>
+
+==H==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Hallyu]]
+*[[Hauntology]]
+*[[Halloween]]
+*[[Happycore]]
+*[[Hatecore]]
+*[[Haussmann Paris]]
+*[[Health Goth]]
+*[[Heatwave]]
+*[[Heistcore]]
+*[[Hellenic]]
+*[[Hermaphroditus]]
+*[[High School Dream]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Hikecore]]
+*[[Hip-Hop]]
+*[[Hippie]]
+*[[Hipster]]
+*[[Historical Americana]]
+*[[Holosexual]]
+*[[Honeycore]]
+*[[Horror]]
+*[[Horror Academia]]
+*[[Hot Topic]]
+*[[Hustlewave]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Hydrogen]]
+*[[Hyperpop]]
+</td></tr></table>
+
+==I==
+
+*[[Icepunk]]
+*[[Impressionism]]
+*[[Ironpunk]]
+*[[Indie]]
+*[[Internet Academia]]
+*[[Italo Disco]]
+*[[Italian Mafia]]
+
+==J==
+
+*[[Jamcore]]
+*[[Jersey Shore]]
+*[[Joyride]]
+*[[Juggalo]]
+*[[Junglecore]]
+*[[Junkpunk]]
+
+==K==
+
+*[[Karasu Zoku]]
+*[[Kawaii]]
+*[[Kawaii Gamer]]
+*[[Kidcore]]
+*[[Kid Science]]
+*[[Kinderwhore]]
+*[[Kingcore]]
+*[[Knightcore]]
+*[[Kogal]]
+*[[Kuromicore]]
+
+==L==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Laborwave]]
+*[[Lagenlook]]
+*[[Larme Kei]]
+*[[La Sape]]
+*[[Light Academia]]
+*[[Lightningwave]]
+*[[Lil Girl]]
+*[[Lit Kid]]
+*[[Liminal Space]]
+*[[Lo-Fi]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Lolita]]
+*[[Lounge]]
+*[[Lovecore]]
+*[[Luminism]]
+*[[Lunarpunk]]</td></tr></table>
+
+==M==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Macaute]]
+*[[Mad Scientist]]
+*[[Magenta]]
+*[[Magewave]]
+*[[Maidcore]]
+*[[Malandragem]]
+*[[Mallgoth]]
+*[[Mall Ninja]]
+*[[Mangas]]
+*[[Maternity]]
+*[[McBling]]
+*[[Medicalcore]]
+*[[Medieval]] 
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Memphis]]
+*[[Metal]]
+*[[Metalcore]]
+*[[Metrosexual]]
+*[[Miami Metro]]
+*[[Midwest Emo]]
+*[[Midwest Gothic]]
+*[[Military]]
+*[[Milleniwave]]
+*[[Milk]]
+*[[Minimalism]]
+*[[Mod]]
+*
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Modernism]]
+*[[Mori Kei]]
+*[[Morute]]
+*[[Mote Kei]]
+*[[Mosscore]]
+*[[MS Paint|Ms Paint]]
+*[[Mushroomcore]]
+*[[Musical Academia]]
+</td></tr></table>
+
+==N==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Nanopunk]]
+*[[Natural Philosophy]]
+*[[Naturecore]]
+*[[Nautical]]
+*[[Nazi Chic]]
+*[[Neko]]
+*[[Neomilitarism]]
+*[[Nerd]]
+*[[Nerdcore]]
+*[[New Age]]
+*[[New Romantic]]
+*[[Neo-Romanism|Neo - Romanism]]
+*[[New Wave]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Nintencore]]
+*[[Normcore]]
+*[[Northerness]]
+*[[Nostalgiacore]]
+*[[Nowpunk]]
+*[[Nozems]]
+*[[Nuclear]]
+*[[Nu-Goth]]
+*[[Nymphet]]
+</td></tr></table>
+
+==O==
+
+*[[Ocean Academia]]
+*[[Ocean Grunge]]
+*[[Old Hollywood]]
+*[[Old Web]]
+*[[Onii Kei]]
+*[[Oshare Kei]]
+*[[Otherkin]]
+
+==P==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Pachuco]]
+*[[Pale]]
+*[[Palewave]]
+*[[Paleocore]]
+*[[Paninaro]]
+*[[Party Animal]]
+*[[Party Kei]]
+*[[Pastel]]
+*[[Pastel Academia]]
+*[[Pastel Goth]]
+*[[Pastel Punk]]
+*[[Peach]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Pearly]]
+*[[Peoplehood]]
+*[[Petcore]]
+*[[Photorealism]]
+*[[Pigeoncore]]
+*[[Pink]]
+*[https://aesthetics.fandom.com/wiki/Pink_Princess_Aesthetic Pink Princess Aesthetic]
+*[[Pin-up]]
+*[[Pirate]]
+*[[Pixel Cutie]]
+*[[Pixiecore]]
+*[[Plaguecore]]
+*[[Plant Mom]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Playboy]]
+*[[Pointillism]]
+*[[Pop]]
+*[[Pop Art]]
+*[[Pop Kei]]
+*[[Post-Impressionism]]
+*[[Postmodernism]]
+*[[Post-Apocalyptic]]
+*[[Post-rock]]
+</td></tr></table>
+
+<hr style="max-width: 95%; margin: auto; border: 1px dashed #D3D6D6;">
+
+*[[Powwow Step]]
+*[[Prairiecore]]
+*[[Preppy]]
+*[[Princecore]]
+*[[Princesscore]]
+*[[Progressive academia|Progressive Academia]]
+*[[Psychedelica]]
+*[[Punk]]
+*[[Purism]]
+
+==Q==
+
+*[[Queencore]]
+*[[Queer Academia]]
+*[[Queercore]]
+
+==R==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[R&B]]
+*[[Racaille]]
+*[[Rainbowcore]]
+*[[Rainy Day]]
+*[[Rangercore]]
+*[[Ratcore]]
+*[[Ravencore]]
+*[[Raver]]
+*[[Real Life Super Hero]]
+*[[Realism]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Reefwave]]
+*[[Regency]]
+*[[Regional Gothic]]
+*[[Retro-Futurism]]
+*[[Rivethead]]
+*[[Roaring 20s]]
+*[[Robotics Kids|Robotics Kid]]
+*[[Rockabilly]]
+*[[Rococo]]
+*[[Rococopunk]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Rollerwave]]
+*[[Roma]]
+*[[Romantic Goth]]
+*[[Romanticism]]
+*[[Romantic Academia]]
+*[[Romantic Italian]]
+*[[Royalcore]]
+*[[Rural China]]
+*[[Rusticcore]]
+</td></tr></table>
+
+==S==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<td style="width:33.33%;" align="left" valign="top">
+*[[Sadpeople|Sad people]]
+*[[Salon Kei]]
+*[[Sandalpunk]]
+*[[Sanriocore]]
+*[[Science Academia]]
+*[[Scrapbook]]
+*[[Scrapper]]
+*[[Scene]]
+*[[Scoutcore]]
+*[[Scuttlers]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Seapunk]]
+*[[Selkiecore]]
+*[[Shanzhai]]
+*[[Shā mǎ tè]]
+*[[Shabby Chic]]
+*[[Sharpies]]
+*[[Shironuri]]
+*[[Sizz]]
+*[[Skinheads]]
+*[[Slimepunk]]
+*[[Sloanies]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Slutcore]]
+*[[Snailcore]]
+*[[Snowdrop]]
+*[https://aesthetics.fandom.com/wiki/Snow_bunny Snow Bunny]
+*[[Soft Apocalypse]]
+*[[Softie]]
+*[[Soft Macabre]]
+*[[Soggy]]
+*[[Solarpunk]]
+*[[Soulboys]]
+*[[Southern Gothic]]
+*[[Sovietwave]]
+</td></tr>
+</table>
+
+<hr style="max-width: 95%; margin: auto; border: 1px dashed #D3D6D6;">
+
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Spacecore]]
+*[[Sparklecore]]
+*[[Spiritcore]]
+*[[Spring]]
+*[[Spy fiction]]
+*[[Steampunk]]
+*[[Steelpunk]]
+*[[Stilyagi]]
+*[[Stimwave]]
+*[[Stonepunk]]
+*[[Stoner]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Stripcore]]
+*[[Studyblr]]
+*[[Studyplace]]
+*[[Styla]]
+*[[Suburban Gothic]]
+*[[Sukeban]]
+*[[Summer]]
+*[[Suprematism]]
+*[[Surf Crush]]
+*[[Surrealism]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Surreal Memer]]
+*[[Swenkas]]
+*[[Swordpunk]]
+*[[Synthwave]]
+</td></tr></table>
+
+==T==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Takenokozoku]]
+*[[Tenwave]]
+*[[Techwear]]
+*[[Teddies]]
+*[[Technical Scene]]
+*[[Teethcore]]
+*[[Theatre Academia]]
+*[[Theatre Kids]]
+*[[Thrasher]]
+*[[Thriftcore]]
+*[[Tomboy]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Trad Goth]]
+*[[Traditional Polish]]
+*[[Trailer Trash|Trailer Park Princess]]
+*[[Trashcore]]
+*[[Traumacore]]
+*[[Trendercore]]
+*[[Trillwave]]
+*[[Tropical]]
+*[[Tupinipunk]]
+*[[Tweencore]]
+*[[Twee]]
+</td></tr></table>
+
+==U==
+
+*[[Ukiyo-e]]
+*[[Ulzzang]]
+*[[Urbancore]]
+*[[Unicorncore]]
+
+==V==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Vacation Dadcore]]
+*[[Vampire]]
+*[[Vaporwave]]
+*[[Vibrant Academia]]
+*[[Victorian]]
+*[[Victorian Goth]]
+*[[Viking]]
+*[[Vintage]]
+*[[Vintage Academia]]
+*[[Vintage Parisian]]
+*[[Virgo's Tears]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Visual Kei]]
+*[[VSCO]]
+*[[Voidpunk]]
+*[[Vorticism]]
+*[[Vulture Culture]]
+</td></tr></table>
+
+==W==
+<table style="background-color:transparent; color:inherit; width:100%;">
+<tr>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Wabi-Sabi]]
+*[[Waif]]
+*[[Waldorf]]
+*[[Wanderlust]]
+*[[Wandervogel]]
+*[[Warmcore]]
+*[[Web Creep]]
+*[[Weirdcore]]
+*[[Western]]
+*[[Winter]]
+*[[Witchy Academia]]
+*[[Witch House]]
+</td>
+<td style="width:33.33%;" align="left" valign="top">
+*[[Witchcore]]
+*[[Wizardcore]]
+*[[Wonderland]]
+*[[Woodland Goth]]
+*[[Wormcore]]
+*[[Writer Academia]]
+</td></tr></table>
+
+==X==
+==Y==
+
+*[[Y2K]]
+*[[Yakuza]]
+*[[Yami Kawaii]]
+*[[Yankeecore]]
+*[[Yanki]]
+*[[Yume Kawaii]]
+*[[Yandere]]
+
+==Z==
+
+*[[Zazou]]
+*[[Zef]]
+*[[Zentai]]
+*[[Zombiecore]]
+
+== # ==
+
+* [[1950s Suburbia]]
+*[[2 Tone]]
+*[[70s Disco]]
